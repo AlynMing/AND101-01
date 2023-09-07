@@ -1,6 +1,6 @@
 <!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 
-# AND101 Project 5 - Choose Your Own API
+# AND101 Project 2 - Kotlin Debug-a-thon
 
 Submitted by: **Your Name Here**
 
@@ -8,7 +8,7 @@ Time spent: **X** hours spent in total
 
 ## Summary
 
-**Name of your app** is an android app that **fill in description (Example: "An app that displays a random character from the Game of Thrones API")**
+**Name of your app** is an android app that was riddled with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!  **Change or add to this description**
 
 If I had to describe this project in three (3) emojis, they would be: **emojis here**
 
@@ -18,29 +18,26 @@ If I had to describe this project in three (3) emojis, they would be: **emojis h
 
 The following REQUIRED features are completed:
 
-- [ ] Make an API call to an API of your choice using AsyncHTTPClient
-- [ ] Display at least three (3) pieces of data for each API entry retrieved
-- [ ] A working Button requests a new API entry and updates the data displayed
+- [X] 👋 Debug and fix navigation to Hello World activity
+- [X] 4️⃣ Debug and fix Number Sum (2 + 2) activity
+- [X] 📅 Debug and fix Current Day activity 
+- [X] 🌈 Debug and fix behavior of Random Color activity
+- [X] 🗒️ Debug and fix Print List activity
+- [X] 💯 Debug and fix Favorite Number activity
 
 The following STRETCH features are implemented:
 
-- [ ] Add a query to the API request
-  - The query I added is **FILL IN HERE**
-- [ ] Build a UI to allow users to add that query
+- [ ] TODO
 
 The following EXTRA features are implemented:
 
 - [ ] List anything else that you added to improve the app!
 
-## API Choice
-
-My chosen API for this project is **enter here**.
-
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='videos/Animation5.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='videos/Animation2.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **your chosen GIF tool**
 
